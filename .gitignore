@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+backend/node_modules/
+frontend-cards/node_modules/
+frontend-cards/dist/
+
+backend/data/
+backend/memoria/
+
+.env
+.env.*
+*.log
+.DS_Store
